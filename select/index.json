@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "オドループ (Live at YOKOHAMA ARENA) - Oddloop (Live at YOKOHAMA ARENA)",
+  "base_artist": "Frederic",
+  "createdAt": "2026-03-10T03:54:39.188060Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オドループ",
+      "artist": "frederic",
+      "has_synced": true,
+      "path": "select/01_オドループ_frederic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オドループ - Oddloop",
+      "artist": "frederic",
+      "has_synced": true,
+      "path": "select/02_オドループ_-_Oddloop_frederic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オドループ",
+      "artist": "フレデリック",
+      "has_synced": true,
+      "path": "select/03_オドループ_フレデリック.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オドループ",
+      "artist": "Lefty Hand Cream",
+      "has_synced": true,
+      "path": "select/04_オドループ_Lefty_Hand_Cream.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オドループ",
+      "artist": "Lefty Hand Cream",
+      "has_synced": true,
+      "path": "select/05_オドループ_Lefty_Hand_Cream.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オドループ",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_01_オドループ_フレデリック.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "オドループ",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_02_オドループ_フレデリック.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "オドループ",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_03_オドループ_フレデリック.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "オドループ",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_04_オドループ_フレデリック.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "オドループ",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_05_オドループ_フレデリック.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "オドループ",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_06_オドループ_フレデリック.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "オドループ",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_07_オドループ_フレデリック.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "オドループ",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_08_オドループ_フレデリック.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "オドループ - From THE FIRST TAKE",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_09_オドループ_-_From_THE_FIRST_TAKE_フレデリック.txt"
+    }
+  ]
+}
